@@ -15,10 +15,12 @@ body {
 
 a {
     text-decoration: none;
+    color: #16A085;
 }
 
 #page-title a:hover, .post a:hover {
     text-decoration: underline;
+
 }
 
 .date-time-title {
