@@ -4,7 +4,7 @@ author: ''
 date: '2018-11-05'
 slug: computational-evolution-theory
 categories: []
-tags: []
+tags: [biology, evolution theory, computation theory]
 ---
 
 We will start off the reading list with computational evolution theory papers by Papadimitirou. 
