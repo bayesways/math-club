@@ -1,0 +1,9 @@
+baseURL = "https://math-club.netlify.com"
+title = "math club"
+languageCode = "en-us"
+theme = "elephants"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+[params]
+    sitename = "MATH CLUB"
