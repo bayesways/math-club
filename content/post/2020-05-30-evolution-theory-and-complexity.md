@@ -1,13 +1,12 @@
 ---
 title: Evolution Theory and Complexity
 author: ''
-date: '2020-05-03'
-slug: evolution-theory-and-complexity
-categories: []
+date: '2020-05-30'
 tags:
   - biology
   - computation theory
   - evolution theory
+slug: evolution-theory-and-complexity
 ---
 
 We will start off the reading list with computational evolution theory papers by Papadimitirou. 
