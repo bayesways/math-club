@@ -9,5 +9,9 @@ tags:
   - cellular automata
 ---
 
+The first discussion will be held in the next week or two over zoom. 
+We will discuss the post below. 
+Please email me if you would like to participate and tell me some days+times that would work for you.
+
 Reading list: 
 https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
