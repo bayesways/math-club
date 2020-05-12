@@ -9,10 +9,9 @@ tags:
   - cellular automata
 ---
 
-**Logistics** : The first discussion will be held in the next week or two over zoom. Time is TBD. 
-We will discuss the post below. 
-Please email me if you would like to participate and tell me some days+times that would work for you.    
-
+**Logistics** : The first discussion will be held on Saturday 5/16/20 at 14:00 EST (19:00 UK or 11:00 PST). I will email you the zoom link. 
+We will discuss [this post](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)  
+Keep notes/questions/ideas. See you there!
 
 #### 
 Wolfram is fascinated with cellular automata, which is simple recurrsive rules that can grow complex structures if run for long time. Wolfram likes to give interactive talks where he explores live random such structures and tries to understand their behavior. I saw one of his talks at the Museum of Math in New York recently. Normally speakers give the same talk twice for two different audience slots. But Wolfram gave two different talks because the experiments took different turns. It's quite intersting, take a look ([talk 1](https://www.youtube.com/watch?v=DnttjrACWD0), [talk2](https://www.youtube.com/watch?v=1vdx_5YfWG4)). 
