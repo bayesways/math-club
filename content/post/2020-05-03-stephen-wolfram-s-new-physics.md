@@ -18,13 +18,14 @@ Wolfram is fascinated with cellular automata, which is simple recurrsive rules t
 
 More recently, Wolfram published an article about his recent findings in automata. His new work shows how these structures can be more than just interestingly complex. They might be capable of explaining various aspects of modern physics. Here is some news stories about it ([news1](https://techcentral.co.za/stephen-wolfram-bets-on-a-new-kind-of-physics/97508/), [news2](https://phys.org/news/2020-04-wolfram-physics-fundamental-theory.html))
 
-Reading list:
+### Reading list
 
 * https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
 
-Debriefing:
 
-Wolfram's new project is certainly interesting and intriguing, even if not materially different from his previous work "A New Kind of Science". His work raised interesting questions. The main objection that we felt was left unanswered is how could one refuse this theory, given that it's not possibly to test experimentaly. This problem, someone said, is serious enough to lead us to question whether we can even characterize the work as a "theory"; suggesting that "framework" would be a fairer characterization. Nevertheless, the discussion that followed touched on a couple of different issues.
+### Debriefing
+
+Wolfram's new project is certainly interesting and intriguing, even if not materially different from his previous work "A New Kind of Science". His work raised interesting questions. The main objection that we felt was left unanswered is how could one refuse this theory, given that it's not possible to test experimentaly. This problem, someone said, is serious enough to lead us to question whether we can even characterize the work as a "theory"; suggesting that "framework" would be a fairer characterization. Nevertheless, the discussion that followed touched on a couple of different issues.
 
 One thread developed around the scientific method. We seem to agree that there is a fundemental tradeoff in science between the complexity of the system and the amount of valid predictions one can derive from the system. In a sense scientific theories aim to "do more with less".
 
