@@ -18,7 +18,7 @@ Wolfram is fascinated with cellular automata, which is simple recurrsive rules t
 
 More recently, Wolfram published an article about his recent findings in automata. His new work shows how these structures can be more than just interestingly complex. They might be capable of explaining various aspects of modern physics. Here is some news stories about it ([news1](https://techcentral.co.za/stephen-wolfram-bets-on-a-new-kind-of-physics/97508/), [news2](https://phys.org/news/2020-04-wolfram-physics-fundamental-theory.html))
 
-#### Reading list**
+#### Reading list
 
 * https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
 
