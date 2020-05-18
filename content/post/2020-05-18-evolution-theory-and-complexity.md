@@ -29,6 +29,6 @@ and an extended version ([part 1](https://www.youtube.com/watch?v=YwMiODT5qPU), 
 
 #### Reading list
 
-* docs: [pdfs](https://www.dropbox.com/sh/8depv8vpwdasjjv/AAA1cFa3yq5WjIp_AKdNiVr6a?dl=0) 
-* [article](https://cacm.acm.org/magazines/2016/11/209128-sex-as-an-algorithm/abstract), 
+* papers (pick any) [pdfs](https://www.dropbox.com/sh/8depv8vpwdasjjv/AAA1cFa3yq5WjIp_AKdNiVr6a?dl=0) and [article](https://cacm.acm.org/magazines/2016/11/209128-sex-as-an-algorithm/abstract), 
+* [MW refresher](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/notes/lecture16.pdf)
 * possibly other applications of MW?
