@@ -19,14 +19,31 @@ We will discuss the "Multiplicative weights updated" (MWU)  algorithm and its ap
 One interesting application is the papers by Papadimitirou (in what I think is described as computational evolution theory).  
 I think it would be interesting if everyone brought their own favorite application of the algorithm to the discussion.
 
-His work (if I remember correctly) shows how the MW algorithm can explain three fundemental questions left unanswered by traditional Evolution Theory: 
+His work is about bringing computation theory to other fields. In this context he examines three fundemental questions left unanswered by traditional Evolution Theory: 
 
 * How does novelty arise in organisms? 
-* What is the role of sex?
+* What is the role of sex? 
 * How is variability preserved despite constant mixing?
+
 
 I saw him talk at the Simons Insitute in New York. I think he gave the same talk around different univerisities, see this [video lecture](https://www.youtube.com/watch?v=WoamKUfisVM) 
 and an extended version ([part 1](https://www.youtube.com/watch?v=YwMiODT5qPU), [part 2](https://www.youtube.com/watch?v=XFXRApGW_Lw))   
+
+
+There some interesting disctions that arise by reading so far:  
+
+* Output versus input: Life involves complex processes, many of which including solving NP hard problems. For example our cell know how to fold a protein in miliseconds, even though protein folding has been proven to be NP hard. NP hard refers to the worst case complexity, but of course easy instances could be solved faster. One suggestion is that natural selection acts on the input instances, making sure that only the easy instances survive
+
+* Genotye vs phenotype
+
+* Discrete vs continuous: If the genetic information is discrete how come we see species change on a continuum
+
+* Optimization vs mixability (asexual vs sexual)
+
+
+
+
+
 
 
 #### Reading list
