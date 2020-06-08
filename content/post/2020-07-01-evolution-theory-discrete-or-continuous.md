@@ -24,7 +24,8 @@ Reading List:
 * Systematics and the Origin of Species from the Viewpoint of a Zoologist [book](https://www.amazon.com/Systematics-Origin-Species-Viewpoint-Zoologist/dp/0674862503)
 * The story is told in the section "Sidebar: The Equation that Reconciled Darwin and Mendel" of this [article](https://cacm.acm.org/magazines/2016/11/209128-sex-as-an-algorithm/fulltext).
 * [article](https://evolution.berkeley.edu/evolibrary/article/0_0_0/history_19)
-* [slides](https://prezi.com/c-vd2es0zllq/ronald-fisher-sewall-wright-and-jbs-haldane/) 
+* [slides](https://prezi.com/c-vd2es0zllq/ronald-fisher-sewall-wright-and-jbs-haldane/)
+* [website](http://www.talkorigins.org/faqs/modern-synthesis.html)
 
 
 
